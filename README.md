@@ -22,7 +22,7 @@ Clerk authentication, and Supabase.
 -   **Authentication:** Clerk
 -   **Database / Backend:** Supabase
 -   **Styling:** Tailwind CSS 4
--   **Linting:** ESLint
+
 
 ## 🚀 Getting Started
 
